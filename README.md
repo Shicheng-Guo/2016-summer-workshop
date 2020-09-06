@@ -1,3 +1,4 @@
+
 ![banner](https://raw.githubusercontent.com/iscb-dc-rsg/2016-summer-workshop/gh-pages/images/iscb-dc-rsg_summer_2016_workshop_header_small.png)
 
 # ISCB DC Area Regional Student Group - Summer 2016 Workshop
